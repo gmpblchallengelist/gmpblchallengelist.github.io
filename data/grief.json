@@ -1,7 +1,7 @@
 {
     "id": 16,
     "name": "Grief Challenge",
-    "author": "Lub Community",
+    "author": "TheMold",
     "creators": [
         "Cruel Difficulty",
         "Anomaly 16",
@@ -21,16 +21,10 @@
         "You can't avoid the creaky floors",
         "Escape through the car"
     ],
-    "verifier": "Verifier",
-    "verification": "https://youtu.be",
+    "verifier": "TheMold",
+    "verification": "https://youtu.be/PfguAWIRV48?si=SEGgxp_Q4ePm1dzL",
     "percentToQualify": 100,
     "password": "Car Escape",
     "records": [
-        {
-            "user": "Player1",
-            "link": "https://youtu.be",
-            "percent": 100,
-            "hz": 60
-        }
-    ]
+     ]
 }
