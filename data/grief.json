@@ -1,0 +1,36 @@
+{
+    "id": 16,
+    "name": "Grief Challenge",
+    "author": "Lub Community",
+    "rules": [
+        "Cruel Difficulty",
+        "Anomaly 16",
+        "Preset 3",
+        "You have only 1 day",
+        "No using weapons, but you can use a shotgun",
+        "No using Pepper spray",
+        "No using nightmare items (even they shouldn't be taken)",
+        "Nightmare mode",
+        "Fix the car and fix Elevator",
+        "Use the Caramel key (Replacing the TV puzzle)",
+        "No killing granny",
+        "No abuse",
+        "Load the shotgun only in the garage",
+        "You can only shoot the shotgun twice",
+        "No using door unlock",
+        "You can't avoid the creaky floors",
+        "Escape through the car"
+    ],
+    "verifier": "Verifier",
+    "verification": "https://youtu.be",
+    "percentToQualify": 100,
+    "password": "Car Escape",
+    "records": [
+        {
+            "user": "Player1",
+            "link": "https://youtu.be",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
